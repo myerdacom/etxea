@@ -7,7 +7,7 @@ on:
     # Corre cada 2h entre las 8 y las 23
     # Corre cada 4h entre las 10 y las 22
     #- cron: '0 8-23/2 * * *'
-    - cron: '50 10-22/4 * * *'
+    - cron: '45 11-21/4 * * *'
 
 jobs:
   build:
